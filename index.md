@@ -74,7 +74,7 @@
 |9|Many errors with musescore|1|409|appimage|Musescore||Incorrect output / behaviour|
 |21|UnityHub can't install a unity version|1|2734|xfce; appimage; unity|UnityHub|Unity|Installation / updating / removal|
  
- ***TAB2 Third-Party Software entity sample results ranked by number of replies, with named entities and problem states derived from subject lines.***
+ ***TAB2: Third-Party Software entity sample results ranked by number of replies, with named entities and problem states derived from subject lines.***
 
 ---
 ## Conclusion: Gaming-related applications PCSX2, LunarClient, and Unity recur across loading/ startup, incorrect output/behaviour, and installation/updating/removal problem states in the logic tree derived from the named entity sample.
@@ -103,4 +103,4 @@
 
 ```
 
-***DIA2 Relationships between named entities and problem states, derived from the third-party software entity sample, organized according to the smaller of the two sets.***
+***DIA2: Relationships between named entities and problem states, derived from the third-party software entity sample, organized according to the smaller of the two sets.***
