@@ -11,7 +11,7 @@
 
 **Issue**: The category table displays user-reported problems that occur across 14 applications, ranked by number of replies.   
 **Problem**: Which problem state is reported the most frequently in the sample?  
-**Solution**: The sample shows that installation, updating, and removal problems recur most across applications. The logic tree shows this correlation by attaching those applications to the ‘installation/updating/removal’ branch.
+**Solution**: The sample shows that installation, updating, and removal problems recur across 8 applications. The logic tree shows this correlation by attaching those applications to the ‘installation/updating/removal’ branch.
 
 |Sample Number|Topic|Replies|Views|Tags|Named Entity 1|Named Entity 2|Named Entity 3|Problem|
 |---|---|---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 
 **Issue**: This named entity table lists user-reported problem states associated with AppImage across 7 applications, ranked by number of replies.   
 **Problem**: What type of application recurs most frequently in the sample?  
-**Solution**: The sample shows that gaming-related applications recur most frequently across 3 problem states.
+**Solution**: The sample shows that gaming-related applications recur 4 times across 3 problem states.
 
 |Sample Number|Topic|Replies|Views|Tags|Named Entity 1|Named Entity 2|Problem|
 |---|---|---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 
 **Issue**: This logic tree displays reported problems associated with Applmage across 7 applications.   
 **Problem**: What type of application recurs most frequently in the sample?  
-**Solution**: This logic tree shows that gaming-related applications (PCSX2, LunarClient, Unity, and UnityHub) appear most and branch from several problem states.
+**Solution**: This logic tree shows that gaming-related applications (PCSX2, LunarClient, Unity, and UnityHub) recur 4 times and branch from 3 problem states.
 
 ```text
 
