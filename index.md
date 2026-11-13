@@ -4,7 +4,7 @@
  **Problem**: What problem states and application types recur in the sample data?  
  **Solution**: Installation/updating/removal problem states and gaming-related applications recur across the sample data. DIA1 shows this correlation by attaching 8 applications to the ‘installation/updating/removal’ branch. DIA2 supports this finding by showing that 4 gaming-related applications appear across 3 problem state categories.
 
-*Reply counts register discussion activity and may serve as provisional indicators of user interest or support demand. They do not independently establish the frequency, severity, or technical significance of reported problems. The priorities identified in this analysis are therefore candidates for further investigation, not recommendations for resource allocation. Engineering expertise and operational evidence are required to assess their significance and determine appropriate responses.*
+> *Reply counts register discussion activity and may serve as provisional indicators of user interest or support demand. They do not independently establish the frequency, severity, or technical significance of reported problems. The priorities identified in this analysis are therefore candidates for further investigation, not recommendations for resource allocation. Engineering expertise and operational evidence are required to assess their significance and determine appropriate responses.*
 
 ---
 ## Section 1: Installation, updating, and removal problems recur across Python 3.11, Firefox, and VLC Media Player in the category sample.
@@ -28,18 +28,19 @@
 
 ***TAB1: Third-Party Software category sample results ranked by number of replies, with named entities and problem states derived from subject lines.*** 
 
+```text
 .  
-└── **Third-Party Software Category Search Results**/ 
-├── **Access/modification**: Firefox  
-├── **Connectivity/communication**: Openshot  
-├── **Power/session transitions**:/  
+└── Third-Party Software Category Search Results/ 
+├── Access/modification: Firefox  
+├── Connectivity/communication: Openshot  
+├── Power/session transitions:/  
 │   ├── SIGKILL  
 │   └── SIGCHLD  
-├── **Loading/startup**:/  
+├── Loading/startup:/  
 │   ├── AppImage  
 │   ├── Shotcut  
 │   └── FreeCAD  
-└── **Installation/updating/removal**:/  
+└── Installation/updating/removal:/  
       ├── Python 3.11  
       ├── Firefox  
       ├── VLC Media Player  
@@ -47,7 +48,8 @@
       ├── DaVinci Resolve  
       ├── Manjaro  
       ├── Linux  
-      └── ThermalRight AIO  
+      └── ThermalRight AIO
+```
 
 ***DIA1: Logic tree depicting relationships between problem states and named entities, derived from a third-party category sample, organized according to the smaller of the two sets.***
 
@@ -81,21 +83,24 @@
 **Problem**: What type of application recurs most frequently in the sample?  
 **Solution**: This logic tree shows that gaming-related applications (PCSX2, LunarClient, Unity, and UnityHub) appear most and branch from several problem states.
 
-'''
-└── **Third-Party Software Entity Search Results**/  
-├── **Access/modification**: AppImage  
-├── **Crashing**: AppImage  
-├── **Loading/startup**:/  
+```text
+
+└── Third-Party Software Entity Search Results/  
+├── Access/modification: AppImage  
+├── Crashing: AppImage  
+├── Loading/startup:/  
 │   ├── AppImage  
 │   ├── RawTherapee  
 │   └── PCSX2  
-├── **Incorrect output/behaviour**:/  
+├── Incorrect output/behaviour:/  
 │   ├── AppImage  
 │   ├── LunarClient  
 │   └── Musescore  
-└── **Installation/updating/removal**:/  
+└── Installation/updating/removal:/  
       ├── AppImage  
       ├── UnityHub  
       └── Unity
+
+```
 
 ***DIA2 Relationships between named entities and problem states, derived from the third-party software entity sample, organized according to the smaller of the two sets.***
