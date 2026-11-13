@@ -1,4 +1,4 @@
-# Installation, updating, and removal problems repeat across Python 3.11, Firefox, and VLC Media Player, while gaming-related applications PCSX2, LunarClient, and Unity recur across loading/startup, incorrect output/behaviour, and installation/updating/ removal problem states.
+# Installation, updating, and removal problems recur across Python 3.11, Firefox, and VLC Media Player, while gaming-related applications PCSX2, LunarClient, and Unity recur across loading/startup, incorrect output/behaviour, and installation/updating/ removal problem states.
 
  **Issue**: Category and named entity samples display user-reported problems across 20 applications, ranked by number of replies. Samples were collected from the Manjaro support forum  on September 24th at 2:29pm MST.  
  **Problem**: What problem states and application types recur in the sample data?  
