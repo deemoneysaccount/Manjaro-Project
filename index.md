@@ -1,4 +1,4 @@
-# Installation, updating, and removal problems recur across Python 3.11, Firefox, and VLC Media Player, while gaming-related applications PCSX2, LunarClient, and Unity recur across loading/startup, incorrect output/behaviour, and installation/updating/ removal problem states.
+# Installation, updating, and removal problems recur across Python 3.11, Firefox, and VLC Media Player, while gaming-related applications PCSX2, LunarClient, and Unity recur across loading/startup, incorrect output/behaviour, and installation/updating/removal problem states.
 
  **Issue**: Category and named entity samples display user-reported problems across 20 applications, ranked by number of replies. Samples were collected from the Manjaro support forum  on September 24th at 2:29pm MST.  
  **Problem**: What problem states and application types recur in the sample data?  
@@ -55,7 +55,7 @@
 
 ---
 
-## Section 2: Gaming-related applications PCSX2, LunarClient, and Unity recur across loading/ startup, incorrect output/behaviour, and installation/updating/removal problem states in the named entity sample.
+## Section 2: Gaming-related applications PCSX2, LunarClient, and Unity recur across loading/startup, incorrect output/behaviour, and installation/updating/removal problem states in the named entity sample.
 
 **Issue**: This named entity table lists user-reported problem states associated with AppImage across 7 applications, ranked by number of replies.   
 **Problem**: What type of application recurs most frequently in the sample?  
@@ -77,7 +77,7 @@
  ***TAB2: Third-Party Software entity sample results ranked by number of replies, with named entities and problem states derived from subject lines.***
 
 ---
-## Conclusion: Gaming-related applications PCSX2, LunarClient, and Unity recur across loading/ startup, incorrect output/behaviour, and installation/updating/removal problem states in the logic tree derived from the named entity sample.
+## Conclusion: Gaming-related applications PCSX2, LunarClient, and Unity recur across loading/startup, incorrect output/behaviour, and installation/updating/removal problem states in the logic tree derived from the named entity sample.
 
 **Issue**: This logic tree displays reported problems associated with Applmage across 7 applications.   
 **Problem**: What type of application recurs most frequently in the sample?  
