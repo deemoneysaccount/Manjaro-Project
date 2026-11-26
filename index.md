@@ -84,7 +84,7 @@
 **Solution**: This logic tree shows that gaming-related applications (PCSX2, LunarClient, Unity, and UnityHub) recur 4 times and branch from 3 problem states.
 
 ```text
-
+.
 └── Third-Party Software Entity Search Results/  
 ├── Access/modification: AppImage  
 ├── Crashing: AppImage  
